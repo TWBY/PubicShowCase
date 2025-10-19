@@ -79,8 +79,8 @@ class AIHeader extends HTMLElement {
         <span>AI 寫程式，打造你的數位產品</span>
         <div style="display: flex; align-items: center; gap: 12px;">
           <div class="social-links">
-            <a href="https://www.threads.com/@bytech719" target="_blank" rel="noopener noreferrer" class="social-link" title="Threads" aria-label="Threads">
-              Threads
+            <a href="https://brickverse.com.tw/index.html" target="_blank" rel="noopener noreferrer" class="social-link" title="課程網站" aria-label="課程網站">
+              課程網站
             </a>
             <a href="http://go.brickverse.com.tw/OfficeLINEAccount" target="_blank" rel="noopener noreferrer" class="social-link" title="LINE 官方帳號" aria-label="LINE 官方帳號">
               官方 LINE
